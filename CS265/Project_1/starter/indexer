@@ -1,0 +1,16 @@
+#!/bin/bash
+# CS265 Project 1 Starter Script
+#
+# Replace the contents of this file with your recursive directory indexer implementation.
+# Remember to:
+#   * Accept exactly one directory argument.
+#   * Validate the input directory and exit with an error on failure.
+#   * Traverse the directory tree recursively.
+#   * Generate index.json files that follow the assignment specification.
+#   * Handle special characters in filenames correctly.
+#   * Respect _blacklist and _special configuration files.
+
+set -euo pipefail
+
+echo "TODO: Implement the recursive directory indexer" >&2
+exit 1
